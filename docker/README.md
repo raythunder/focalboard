@@ -1,3 +1,7 @@
+```
+docker compose up -d --build
+```
+
 # Deploy Focalboard with Docker
 
 ## Docker
